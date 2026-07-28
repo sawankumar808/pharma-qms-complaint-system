@@ -1,0 +1,10 @@
+Hi team,
+
+Just a small note - on the outer carton of Paracetamol 650mg Tablets, Batch PCM-2026-091,
+the batch number printed on the carton (PCM-2026-091) doesn't match the batch number printed
+on the inner blister foil (PCM-2026-19). The product itself looks fine and we haven't had
+any patient complaints, just flagging the label mismatch for your QA records.
+
+- Ansh Verma
+  ansh.verma@wellnessretail.in
+  Reported: 20th July 2026

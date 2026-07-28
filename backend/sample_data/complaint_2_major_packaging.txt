@@ -1,0 +1,14 @@
+Complaint Intake Form (submitted via customer portal)
+
+Complainant Name: Sunita Rao
+Email: sunita.rao@citycarepharmacy.in
+Product: Amoxicillin 250mg Capsules
+Batch Number: AMX-0325-B
+Date of Incident: 2026-07-18
+
+Description:
+We received a carton of Amoxicillin 250mg Capsules where 6 out of 20 strips had damaged
+blister seals - the aluminum foil backing was partially peeled away on the strip edges,
+exposing capsules to ambient air. No visible capsule discoloration was noted, but we are
+concerned about moisture ingress affecting potency before the labeled expiry date. We have
+not dispensed any capsules from the affected strips and are holding them for your review.
